@@ -4,16 +4,14 @@
 
 ---
 
+#### 测试入门
+- 视频
+    - [游戏测试入门(张敬峰)](https://www.imooc.com/learn/880)
+    - [游戏测试从入门到精通](https://ke.qq.com/course/127426)（TesterHome出品）
 
-
-
-#### 视频
-- [游戏测试入门(张敬峰)](https://www.imooc.com/learn/880)
-- [游戏测试从入门到精通](https://ke.qq.com/course/127426)（TesterHome出品）
-
-#### 书籍
-- [软件测试的艺术（原书第3版）](https://item.jd.com/10978790.html)（软件测试经典书籍） 
-- [Google软件测试之道](https://item.jd.com/11330792.html) 
+- 书籍
+    - [软件测试的艺术（原书第3版）](https://item.jd.com/10978790.html)（软件测试经典书籍） 
+    - [Google软件测试之道](https://item.jd.com/11330792.html) 
 
   
 #### 性能测试
@@ -58,14 +56,25 @@
 - [Augmented Traffic Control](https://github.com/facebook/augmented-traffic-control)（Facebook开源的网络模拟工具）
 - [Charles](https://www.charlesproxy.com/)（支持HTTP，HTTPS协议的弱网测试）
  
+#### 兼容性测试
+- 参考数据
+    - [腾讯移动分析数据中心](http://mta.qq.com/mta/data/device)
+    - [手机CPU性能天梯](http://www.mydrivers.com/zhuanti/tianti/01/)
+    
+ 
 #### 安全测试
-- WPE（老牌封包编辑器）
-- [tcpdump](http://www.androidtcpdump.com/android-tcpdump/downloads)（安卓抓包）
-- [Wireshark](https://www.wireshark.org/)（网络封包分析软件）
-- [ApkTool](http://ibotpeaches.github.io/Apktool/)（APK反编译工具）
-- [NET.Reflector](https://www.red-gate.com/products/dotnet-development/reflector/)（Unity安卓DLL代码文件反编译工具）
-- 烧饼修改器（安卓端游戏内存修改工具，需要root）
-- [Cheat Engine](http://www.cheatengine.org/)（PC端内存修改工具）
+- 封包
+    - WPE（老牌封包编辑器）
+    - [tcpdump](http://www.androidtcpdump.com/android-tcpdump/downloads)（安卓抓包）
+    - [Wireshark](https://www.wireshark.org/)（网络封包分析软件）
+- 反编译
+    - [ApkTool](http://ibotpeaches.github.io/Apktool/)（APK反编译工具）
+    - [NET.Reflector](https://www.red-gate.com/products/dotnet-development/reflector/)（Unity安卓DLL代码文件反编译工具）
+- 内存修改
+    - 烧饼修改器（安卓端游戏内存修改工具，需要root）
+    - [Cheat Engine](http://www.cheatengine.org/)（PC端内存修改工具）
+- 书籍
+    - [游戏安全——手游安全技术入门](https://item.jd.com/11918839.html)
 
 #### 效率工具
 - [Wox](http://www.getwox.com/)（Windows下免费开源的效率启动器）
