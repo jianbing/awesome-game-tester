@@ -20,25 +20,28 @@
     - [GT](http://gt.tencent.com/) 
     - [Emmagee](https://github.com/NetEase/Emmagee)
     - [adb](https://developer.android.com/studio/command-line/adb.html)（安卓SDK自带的调试工具，通过adb shell命令获取性能数据）
-
+    - [Monkey](https://developer.android.com/studio/test/monkey.html)（稳定性测试工具）
+    
 - iOS客户端
     - [Xcode Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/NavigatingInstruments.html#//apple_ref/doc/uid/TP40004652-CH8-SW1)
     - [WeTest助手](https://wetest.qq.com/cloud/help/effective)（需要越狱）
     - [GT](http://gt.tencent.com/)（需要把GT Framework嵌入工程 ）
+
+- 服务端
+    - [LoadRunner](https://software.microfocus.com/zh-cn/software/loadrunner)（老牌压测工具，付费）
+    - [Locust](https://www.locust.io/)（开源的压测工具，支持HTTP，可以通过扩展支持自定义协议）
 
 - Unity性能分析
     - [Unity Profiler](https://docs.unity3d.com/Manual/Profiler.html)（Unity自带的Profile工具）
     - [MemoryProfiler](https://bitbucket.org/Unity-Technologies/memoryprofiler/overview)（Unity5.3新增的内存分析工具）
     - [UWA](https://www.uwa4d.com/)(本地测试收费，需要集成SDK)
 
-#### 压力测试
-- [Monkey](https://developer.android.com/studio/test/monkey.html)
 
 #### UI自动化测试
 - PC平台
     - [按键精灵](http://www.anjian.com/download.htm)（老牌模拟鼠标键盘操作的软件）
     - [SikuliX](http://www.sikulix.com/)（图形化编程工具）
-    - [PyAutoGUI](https://muxuezi.github.io/posts/doc-pyautogui.html)（Py库，模拟鼠标键盘操作）
+    - [PyAutoGUI](https://muxuezi.github.io/posts/doc-pyautogui.html)（Python库，模拟鼠标键盘操作）
 
 - 安卓平台
     - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别，控件定位技术完成游戏的自动化）
@@ -63,16 +66,22 @@
     
  
 #### 安全测试
-- 封包
+- 抓包工具
     - WPE（老牌封包编辑器）
     - [tcpdump](http://www.androidtcpdump.com/android-tcpdump/downloads)（安卓抓包）
     - [Wireshark](https://www.wireshark.org/)（网络封包分析软件）
+    - [pydivert](https://pypi.python.org/pypi/pydivert/2.0.1)（Python库，WinDivert的Python绑定）
+    - [Charles](https://www.charlesproxy.com/download/)（HTTP抓包神器）
+    - [Fiddler](https://www.telerik.com/fiddler)（HTTP协议调试代理工具）
+    
 - 反编译
     - [ApkTool](http://ibotpeaches.github.io/Apktool/)（APK反编译工具）
     - [NET.Reflector](https://www.red-gate.com/products/dotnet-development/reflector/)（Unity安卓DLL代码文件反编译工具）
+    
 - 内存修改
     - 烧饼修改器（安卓端游戏内存修改工具，需要root）
     - [Cheat Engine](http://www.cheatengine.org/)（PC端内存修改工具）
+    
 - 书籍
     - [游戏安全——手游安全技术入门](https://item.jd.com/11918839.html)
 
@@ -86,3 +95,13 @@
 
 #### 本项目的参与者
 - 贡献者：[煎饼](https://github.com/jianbing)，[陈大猫](https://github.com/jiazurongyu2015)
+
+---
+
+#### 如何参与
+非常欢迎大家为列表贡献高质量的各种资源，提交PR时请留意：
+
+- 请确保推荐的资源是游戏项目中使用过，且效果不错
+- 请注明推荐理由
+
+感谢您的贡献！
