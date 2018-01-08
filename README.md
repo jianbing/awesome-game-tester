@@ -11,6 +11,8 @@
 
 - 书籍
     - [软件测试的艺术（原书第3版）](https://item.jd.com/10978790.html)（软件测试经典书籍） 
+    - [游戏测试精通](https://book.douban.com/subject/2271968/)（Game Testing: All in One 第一版中文翻譯）
+    - [Game Testing: All in One（3rd Edition）](https://www.amazon.com/Game-Testing-Charles-P-Schultz/dp/1942270763/ref=sr_1_1?s=books&ie=UTF8&qid=1515405306&sr=1-1&keywords=Game+Testing%3A+All+in+One)
     - [Google软件测试之道](https://item.jd.com/11330792.html) 
 
   
@@ -35,6 +37,7 @@
     - [Unity Profiler](https://docs.unity3d.com/Manual/Profiler.html)（Unity自带的Profile工具）
     - [MemoryProfiler](https://bitbucket.org/Unity-Technologies/memoryprofiler/overview)（Unity5.3新增的内存分析工具）
     - [UWA](https://www.uwa4d.com/)(本地测试收费，需要集成SDK)
+    - [UPA](http://wetest.qq.com/cube/)(WeTest联合Unity官方打造的性能分析工具 )
 
 
 #### UI自动化测试
@@ -90,11 +93,18 @@
 - [Xmind](http://www.xmindchina.net/)（思维导图编写）
 - [ProcessOn](https://www.processon.com/)（在线绘图平台，流程图，思维导图等）
 - [Bcompare](http://www.scootersoftware.com/download.php)（文本对比神器）
+- Setuna（Windows下的屏幕截图工具）
+
+#### 缺陷管理
+- [禅道](http://www.zentao.net/)（国产开源项目管理软件）
+- [Redmine](http://www.redmine.org/projects/redmine/wiki/Download)
+- [Jira](https://www.atlassian.com/software/jira/download)
+- [Quality Center](https://software.microfocus.com/zh-cn/software/quality-center)
 
 ---
 
 #### 本项目的参与者
-- 贡献者：[煎饼](https://github.com/jianbing)，[陈大猫](https://github.com/jiazurongyu2015)
+- 贡献者：[煎饼](https://github.com/jianbing)，[葱油饼猫](https://gitee.com/jiazurongyu)
 
 ---
 
