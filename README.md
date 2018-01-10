@@ -7,10 +7,9 @@
 #### 学习资料
 - 视频
     - [游戏测试入门(张敬峰)](https://www.imooc.com/learn/880)  
-    - [游戏测试从入门到精通](https://ke.qq.com/course/127426)（TesterHome出品） 
-    - [游戏安全][CE嗨入门教程](https://www.bilibili.com/video/av10655891/) (B站源)  
+    - [游戏测试从入门到精通](https://ke.qq.com/course/127426)（TesterHome出品）  
+    - [游戏安全][CE嗨入门教程](https://www.bilibili.com/video/av10655891/) (B站源)  
     
-
 - 书籍
     - [软件测试的艺术（原书第3版）](https://item.jd.com/10978790.html)（软件测试经典书籍） 
     - [游戏测试精通](https://book.douban.com/subject/2271968/)（Game Testing: All in One 第一版中文翻譯）
