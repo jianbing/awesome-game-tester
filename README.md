@@ -4,7 +4,7 @@
 
 ---
 
-#### 测试入门
+#### 学习资料
 - 视频
     - [游戏测试入门(张敬峰)](https://www.imooc.com/learn/880)
     - [游戏测试从入门到精通](https://ke.qq.com/course/127426)（TesterHome出品）
@@ -49,8 +49,8 @@
 - 安卓平台
     - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别，控件定位技术完成游戏的自动化）
     - [GAutomator](https://github.com/Tencent/GAutomator)（针对Unity手游的UI自动化测试框架）
-    - [按键精灵手机版](http://www.mobileanjian.com/)
     - [adb](https://developer.android.com/studio/command-line/adb.html)（通过adb shell input命令来完成点击，滑动等操作）
+    - [按键精灵手机版](http://www.mobileanjian.com/)
    
 - iOS平台
     - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别，控件定位技术完成游戏的自动化）
@@ -88,6 +88,15 @@
 - 书籍
     - [游戏安全——手游安全技术入门](https://item.jd.com/11918839.html)
 
+#### 分发测试
+- [TestFlight](https://developer.apple.com/testflight/)（苹果出品）
+
+#### 其他框架
+- [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)（与iOS设备进行通信的跨平台协议库）
+- [pymobiledevice](https://github.com/iOSForensics/pymobiledevice)（libimobiledevice的Python绑定）
+
+
+
 #### 效率工具
 - [Wox](http://www.getwox.com/)（Windows下免费开源的效率启动器）
 - [Xmind](http://www.xmindchina.net/)（思维导图编写）
@@ -104,7 +113,7 @@
 ---
 
 #### 本项目的参与者
-- 贡献者：[煎饼](https://github.com/jianbing)，[葱油饼猫](https://gitee.com/jiazurongyu)
+- 贡献者：[煎饼](https://github.com/jianbing)，[jiazurongyu](https://gitee.com/jiazurongyu)
 
 ---
 
