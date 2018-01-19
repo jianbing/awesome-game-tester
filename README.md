@@ -110,6 +110,11 @@
 - [Jira](https://www.atlassian.com/software/jira/download)
 - [Quality Center](https://software.microfocus.com/zh-cn/software/quality-center)
 
+#### 设备管理
+- [STF](https://openstf.io/)（大名鼎鼎的WEB端批量移动设备管理控制工具）
+- [ATX-SERVER](https://github.com/openatx/atx-server)（Go语言编写的安卓设备集群管理）
+- [ShareDevice](https://github.com/sunshine4me/ShareDevice)（.net core开发的轻量级设备共享工具）
+
 ---
 
 #### 本项目的参与者
@@ -118,7 +123,7 @@
 ---
 
 #### 如何参与
-非常欢迎大家为列表贡献高质量的各种资源，提交PR时请留意：
+非常欢迎大家为列表贡献高质量的各种资源，可以联系QQ：326333381，或者提交PR。
 
 - 请确保推荐的资源是游戏项目中使用过，且效果不错
 - 请注明推荐理由
