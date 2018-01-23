@@ -16,52 +16,58 @@
     - [Google软件测试之道](https://item.jd.com/11330792.html) 
 
   
-#### 性能测试
-- 安卓客户端
+#### 性能监控
+- 安卓
     - [WeTest助手](https://wetest.qq.com/cloud/help/effective)
     - [GT](http://gt.tencent.com/) 
     - [Emmagee](https://github.com/NetEase/Emmagee)
     - [adb](https://developer.android.com/studio/command-line/adb.html)（安卓SDK自带的调试工具，通过adb shell命令获取性能数据）
-    - [Monkey](https://developer.android.com/studio/test/monkey.html)（稳定性测试工具）
     
-- iOS客户端
+- iOS
     - [Xcode Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/NavigatingInstruments.html#//apple_ref/doc/uid/TP40004652-CH8-SW1)
     - [WeTest助手](https://wetest.qq.com/cloud/help/effective)（需要越狱）
     - [GT](http://gt.tencent.com/)（需要把GT Framework嵌入工程 ）
 
-- 服务端
-    - [LoadRunner](https://software.microfocus.com/zh-cn/software/loadrunner)（老牌压测工具，付费）
-    - [Locust](https://www.locust.io/)（开源的压测工具，支持HTTP，可以通过扩展支持自定义协议）
+- PC
+    - [nmon](http://nmon.sourceforge.net/pmwiki.php)（Linux操作系统上广泛使用的监控与分析工具）
 
-- Unity性能分析
+
+#### 性能分析
+- Unity
     - [Unity Profiler](https://docs.unity3d.com/Manual/Profiler.html)（Unity自带的Profile工具）
     - [MemoryProfiler](https://bitbucket.org/Unity-Technologies/memoryprofiler/overview)（Unity5.3新增的内存分析工具）
     - [UWA](https://www.uwa4d.com/)(本地测试收费，需要集成SDK)
     - [UPA](http://wetest.qq.com/cube/)(WeTest联合Unity官方打造的性能分析工具 )
 
+#### 压力测试
+- [Monkey](https://developer.android.com/studio/test/monkey.html)（安卓稳定性测试工具）
+- [LoadRunner](https://software.microfocus.com/zh-cn/software/loadrunner)（老牌压测工具，付费）
+- [Locust](https://www.locust.io/)（开源的压测工具，支持HTTP，可以通过扩展支持自定义协议）
+
 
 #### UI自动化测试
-- PC平台
-    - [按键精灵](http://www.anjian.com/download.htm)（老牌模拟鼠标键盘操作的软件）
-    - [SikuliX](http://www.sikulix.com/)（图形化编程工具）
-    - [PyAutoGUI](https://muxuezi.github.io/posts/doc-pyautogui.html)（Python库，模拟鼠标键盘操作）
-
-- 安卓平台
+- 安卓
     - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别，控件定位技术完成游戏的自动化）
     - [GAutomator](https://github.com/Tencent/GAutomator)（针对Unity手游的UI自动化测试框架）
     - [adb](https://developer.android.com/studio/command-line/adb.html)（通过adb shell input命令来完成点击，滑动等操作）
     - [按键精灵手机版](http://www.mobileanjian.com/)
    
-- iOS平台
+- iOS
     - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别，控件定位技术完成游戏的自动化）
     - [按键精灵手机版](http://www.mobileanjian.com/)（需要越狱）
+
+- PC
+    - [按键精灵](http://www.anjian.com/download.htm)（老牌模拟鼠标键盘操作的软件）
+    - [SikuliX](http://www.sikulix.com/)（图形化编程工具）
+    - [PyAutoGUI](https://muxuezi.github.io/posts/doc-pyautogui.html)（Python库，模拟鼠标键盘操作）
 
 #### 弱网测试
 - [clumsy](http://jagt.github.io/clumsy/)（Windows平台下人工造成不稳定的网络状况，方便易用）
 - [Network Emulator Toolkit](http://blog.mrpol.nl/2010/01/14/network-emulator-toolkit/)（Windows平台下的弱网模拟工具）  
 - [Augmented Traffic Control](https://github.com/facebook/augmented-traffic-control)（Facebook开源的网络模拟工具）
 - [Charles](https://www.charlesproxy.com/)（支持HTTP，HTTPS协议的弱网测试）
- 
+- [Fiddler](https://www.telerik.com/fiddler)（支持HTTP，HTTPS协议的弱网测试）
+
 #### 兼容性测试
 - 参考数据
     - [腾讯移动分析数据中心](http://mta.qq.com/mta/data/device)
@@ -82,7 +88,7 @@
     - [NET.Reflector](https://www.red-gate.com/products/dotnet-development/reflector/)（Unity安卓DLL代码文件反编译工具）
     
 - 内存修改
-    - 烧饼修改器（安卓端游戏内存修改工具，需要root）
+    - 烧饼修改器（安卓端游戏内存修改工具，需要Root）
     - [Cheat Engine](http://www.cheatengine.org/)（PC端内存修改工具）
     
 - 书籍
@@ -90,12 +96,6 @@
 
 #### 分发测试
 - [TestFlight](https://developer.apple.com/testflight/)（苹果出品）
-
-#### 其他框架
-- [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)（与iOS设备进行通信的跨平台协议库）
-- [pymobiledevice](https://github.com/iOSForensics/pymobiledevice)（libimobiledevice的Python绑定）
-
-
 
 #### 效率工具
 - [Wox](http://www.getwox.com/)（Windows下免费开源的效率启动器）
@@ -111,9 +111,15 @@
 - [Quality Center](https://software.microfocus.com/zh-cn/software/quality-center)
 
 #### 设备管理
-- [STF](https://openstf.io/)（大名鼎鼎的WEB端批量移动设备管理控制工具）
+- [STF](https://openstf.io/)（大名鼎鼎的Web端进行批量移动设备管理控制工具）
 - [ATX-SERVER](https://github.com/openatx/atx-server)（Go语言编写的安卓设备集群管理）
 - [ShareDevice](https://github.com/sunshine4me/ShareDevice)（.net core开发的轻量级设备共享工具）
+
+
+#### 其他框架
+- [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)（与iOS设备进行通信的跨平台协议库）
+- [pymobiledevice](https://github.com/iOSForensics/pymobiledevice)（libimobiledevice的Python绑定）
+- [imobiledevice](http://docs.quamotion.mobi/en/latest/imobiledevice/download.html)（Quamotion提供的libimobiledevice的Windows平台可执行版本）
 
 ---
 
