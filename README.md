@@ -11,7 +11,7 @@
 
 - 书籍
     - [软件测试的艺术（原书第3版）](https://item.jd.com/10978790.html)（软件测试经典书籍） 
-    - [游戏测试精通](https://book.douban.com/subject/2271968/)（Game Testing: All in One 第一版中文翻譯）
+    - [游戏测试精通](https://book.douban.com/subject/2271968/)（Game Testing: All in One 第一版中文翻译）
     - [Game Testing: All in One（3rd Edition）](https://www.amazon.com/Game-Testing-Charles-P-Schultz/dp/1942270763/ref=sr_1_1?s=books&ie=UTF8&qid=1515405306&sr=1-1&keywords=Game+Testing%3A+All+in+One)
     - [Google软件测试之道](https://item.jd.com/11330792.html) 
 
@@ -22,11 +22,13 @@
     - [GT](http://gt.tencent.com/) 
     - [Emmagee](https://github.com/NetEase/Emmagee)
     - [adb](https://developer.android.com/studio/command-line/adb.html)（安卓SDK自带的调试工具，通过adb shell命令获取性能数据）
+    - [GameBench](https://www.gamebench.net/)
     
 - iOS
     - [Xcode Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/NavigatingInstruments.html#//apple_ref/doc/uid/TP40004652-CH8-SW1)
     - [WeTest助手](https://wetest.qq.com/cloud/help/effective)（需要越狱）
     - [GT](http://gt.tencent.com/)（需要把GT Framework嵌入工程 ）
+    - [GameBench](https://www.gamebench.net/)
 
 - PC
     - [nmon](http://nmon.sourceforge.net/pmwiki.php)（Linux操作系统上广泛使用的监控与分析工具）
@@ -36,13 +38,15 @@
 - Unity
     - [Unity Profiler](https://docs.unity3d.com/Manual/Profiler.html)（Unity自带的Profile工具）
     - [MemoryProfiler](https://bitbucket.org/Unity-Technologies/memoryprofiler/overview)（Unity5.3新增的内存分析工具）
-    - [UWA](https://www.uwa4d.com/)(本地测试收费，需要集成SDK)
-    - [UPA](http://wetest.qq.com/cube/)(WeTest联合Unity官方打造的性能分析工具 )
+    - [UWA](https://www.uwa4d.com/) (本地测试收费，需要集成SDK)
+    - [UPA](http://wetest.qq.com/cube/) (WeTest联合Unity官方打造的性能分析工具 )
 
 #### 压力测试
-- [Monkey](https://developer.android.com/studio/test/monkey.html)（安卓稳定性测试工具）
-- [LoadRunner](https://software.microfocus.com/zh-cn/software/loadrunner)（老牌压测工具，付费）
-- [Locust](https://www.locust.io/)（开源的压测工具，支持HTTP，可以通过扩展支持自定义协议）
+- 安卓
+    - [Monkey](https://developer.android.com/studio/test/monkey.html)（安卓稳定性测试工具）
+- PC
+    - [LoadRunner](https://software.microfocus.com/zh-cn/software/loadrunner)（老牌压测工具，付费）
+    - [Locust](https://www.locust.io/)（开源的压测工具，支持HTTP，可以通过扩展支持自定义协议）
 
 
 #### UI自动化测试
@@ -91,18 +95,12 @@
     - 烧饼修改器（安卓端游戏内存修改工具，需要Root）
     - [Cheat Engine](http://www.cheatengine.org/)（PC端内存修改工具）
     
-- 书籍
+- 资料
     - [游戏安全——手游安全技术入门](https://item.jd.com/11918839.html)
+    - [游戏安全实验室](http://gslab.qq.com/js/)
 
 #### 分发测试
 - [TestFlight](https://developer.apple.com/testflight/)（苹果出品）
-
-#### 效率工具
-- [Wox](http://www.getwox.com/)（Windows下免费开源的效率启动器）
-- [Xmind](http://www.xmindchina.net/)（思维导图编写）
-- [ProcessOn](https://www.processon.com/)（在线绘图平台，流程图，思维导图等）
-- [Bcompare](http://www.scootersoftware.com/download.php)（文本对比神器）
-- Setuna（Windows下的屏幕截图工具）
 
 #### 缺陷管理
 - [禅道](http://www.zentao.net/)（国产开源项目管理软件）
@@ -120,6 +118,14 @@
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)（与iOS设备进行通信的跨平台协议库）
 - [pymobiledevice](https://github.com/iOSForensics/pymobiledevice)（libimobiledevice的Python绑定）
 - [imobiledevice](http://docs.quamotion.mobi/en/latest/imobiledevice/download.html)（Quamotion提供的libimobiledevice的Windows平台可执行版本）
+
+
+#### 效率工具
+- [Wox](http://www.getwox.com/)（Windows下免费开源的效率启动器）
+- [Xmind](http://www.xmindchina.net/)（思维导图编写）
+- [ProcessOn](https://www.processon.com/)（在线绘图平台，流程图，思维导图等）
+- [Bcompare](http://www.scootersoftware.com/download.php)（文本对比神器）
+- Setuna（Windows下的屏幕截图工具）
 
 ---
 
