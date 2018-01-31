@@ -23,6 +23,7 @@
     - [Emmagee](https://github.com/NetEase/Emmagee)
     - [adb](https://developer.android.com/studio/command-line/adb.html)（安卓SDK自带的调试工具，通过adb shell命令获取性能数据）
     - [GameBench](https://www.gamebench.net/)
+    - [Battery Historian](https://github.com/google/battery-historian)（安卓生成电量消耗报告）
     
 - iOS
     - [Xcode Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/NavigatingInstruments.html#//apple_ref/doc/uid/TP40004652-CH8-SW1)
@@ -92,7 +93,7 @@
     - [NET.Reflector](https://www.red-gate.com/products/dotnet-development/reflector/)（Unity安卓DLL代码文件反编译工具）
     
 - 内存修改
-    - 烧饼修改器（安卓端游戏内存修改工具，需要Root）
+    - 烧饼修改器（安卓端游戏内存修改工具，需要Root，同类的还有GG修改器，八门神器等）
     - [Cheat Engine](http://www.cheatengine.org/)（PC端内存修改工具）
     
 - 资料
