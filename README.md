@@ -7,7 +7,7 @@
 #### 学习资料
 - 视频
     - [游戏测试入门(张敬峰)](https://www.imooc.com/learn/880)
-    - [游戏测试从入门到精通](https://ke.qq.com/course/127426)（TesterHome出品）
+    - [游戏测试从入门到精通](https://ke.qq.com/course/127426)
 
 - 书籍
     - [软件测试的艺术（原书第3版）](https://item.jd.com/10978790.html)（软件测试经典书籍） 
@@ -117,8 +117,8 @@
 
 #### 其他框架
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)（与iOS设备进行通信的跨平台协议库）
-- [pymobiledevice](https://github.com/iOSForensics/pymobiledevice)（libimobiledevice的Python绑定）
-- [imobiledevice](http://docs.quamotion.mobi/en/latest/imobiledevice/download.html)（Quamotion提供的libimobiledevice的Windows平台可执行版本）
+    - [pymobiledevice](https://github.com/iOSForensics/pymobiledevice)（libimobiledevice的Python绑定）
+    - [imobiledevice](http://docs.quamotion.mobi/en/latest/imobiledevice/download.html)（Quamotion提供的libimobiledevice的Windows平台可执行版本）
 
 
 #### 效率工具
@@ -127,6 +127,12 @@
 - [ProcessOn](https://www.processon.com/)（在线绘图平台，流程图，思维导图等）
 - [Bcompare](http://www.scootersoftware.com/download.php)（文本对比神器）
 - Setuna（Windows下的屏幕截图工具）
+
+#### 编程学习
+- [codecademy](https://www.codecademy.com/)
+- [实验楼](http://www.xmindchina.net/)
+- [慕课网](https://www.imooc.com/)
+- [MOOC学院](https://mooc.guokr.com/course/)
 
 ---
 
