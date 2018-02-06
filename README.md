@@ -24,7 +24,11 @@
     - [adb](https://developer.android.com/studio/command-line/adb.html)（安卓SDK自带的调试工具，通过adb shell命令获取性能数据）
     - [GameBench](https://www.gamebench.net/)
     - [Battery Historian](https://github.com/google/battery-historian)（安卓生成电量消耗报告）
-    
+    - [Snapdragon Profiler](https://developer.qualcomm.com/software/snapdragon-profiler)
+    - [Tegra Graphics Debugger](http://docs.nvidia.com/tegra-graphics-debugger/)
+    - [Mali Graphics Debugger](https://developer.arm.com/products/software-development-tools/graphics-development-tools/mali-graphics-debugger)
+
+
 - iOS
     - [Xcode Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/NavigatingInstruments.html#//apple_ref/doc/uid/TP40004652-CH8-SW1)
     - [WeTest助手](https://wetest.qq.com/cloud/help/effective)（需要越狱）
@@ -52,14 +56,15 @@
 
 #### UI自动化测试
 - 安卓
-    - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别，控件定位技术完成游戏的自动化）
+    - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别完成游戏的自动化操作）
     - [GAutomator](https://github.com/Tencent/GAutomator)（针对Unity手游的UI自动化测试框架）
     - [adb](https://developer.android.com/studio/command-line/adb.html)（通过adb shell input命令来完成点击，滑动等操作）
     - [按键精灵手机版](http://www.mobileanjian.com/)
    
 - iOS
-    - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别，控件定位技术完成游戏的自动化）
+    - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别完成游戏的自动化操作）
     - [按键精灵手机版](http://www.mobileanjian.com/)（需要越狱）
+    - [facebook-wda](https://github.com/openatx/facebook-wda)（Facebook WebDriverAgent非官方Python客户端）
 
 - PC
     - [按键精灵](http://www.anjian.com/download.htm)（老牌模拟鼠标键盘操作的软件）
