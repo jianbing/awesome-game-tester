@@ -24,7 +24,8 @@
     - [adb](https://developer.android.com/studio/command-line/adb.html)（安卓SDK自带的调试工具，通过adb shell命令获取性能数据）
     - [GameBench](https://www.gamebench.net/)
     - [Battery Historian](https://github.com/google/battery-historian)（安卓生成电量消耗报告）
-    - [Snapdragon Profiler](https://developer.qualcomm.com/software/snapdragon-profiler)
+    - [Trepn Profiler](https://developer.qualcomm.com/software/trepn-power-profiler)（用于移动设备上的应用功耗和性能分析工具）
+    - [Snapdragon Profiler](https://developer.qualcomm.com/software/snapdragon-profiler)（Snapdragon Profiler是一款兼容Windows、Mac和Linux平台的性能分析软件。它通过USB与由Snapdragon处理器驱动的Android设备连接）
     - [Tegra Graphics Debugger](http://docs.nvidia.com/tegra-graphics-debugger/)
     - [Mali Graphics Debugger](https://developer.arm.com/products/software-development-tools/graphics-development-tools/mali-graphics-debugger)
 
