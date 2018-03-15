@@ -57,6 +57,7 @@
 
 #### UI自动化测试
 - 安卓
+    - [Airtest](http://airtest.netease.com/index.html)（网易开源的UI自动化测试工具，适用于游戏和App）
     - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别完成游戏的自动化操作）
     - [GAutomator](https://github.com/Tencent/GAutomator)（针对Unity手游的UI自动化测试框架）
     - [adb](https://developer.android.com/studio/command-line/adb.html)（通过adb shell input命令来完成点击，滑动等操作）
@@ -68,6 +69,7 @@
     - [facebook-wda](https://github.com/openatx/facebook-wda)（Facebook WebDriverAgent非官方Python客户端）
 
 - PC
+    - [Airtest](http://airtest.netease.com/index.html)（网易开源的UI自动化测试工具，适用于游戏和App）
     - [按键精灵](http://www.anjian.com/download.htm)（老牌模拟鼠标键盘操作的软件）
     - [SikuliX](http://www.sikulix.com/)（图形化编程工具）
     - [PyAutoGUI](https://muxuezi.github.io/posts/doc-pyautogui.html)（Python库，模拟鼠标键盘操作）
