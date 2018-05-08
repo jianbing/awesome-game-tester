@@ -32,6 +32,7 @@
 
 - iOS
     - [Xcode Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/NavigatingInstruments.html#//apple_ref/doc/uid/TP40004652-CH8-SW1)
+    - [iStatistica](https://www.imagetasks.com/)
     - [WeTest助手](https://wetest.qq.com/cloud/help/effective)（需要越狱）
     - [GT](http://gt.tencent.com/)（需要把GT Framework嵌入工程 ）
     - [GameBench](https://www.gamebench.net/)
