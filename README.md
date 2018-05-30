@@ -32,7 +32,7 @@
 
 - iOS
     - [Xcode Instruments](https://developer.apple.com/library/content/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/NavigatingInstruments.html#//apple_ref/doc/uid/TP40004652-CH8-SW1)
-    - [iStatistica](https://www.imagetasks.com/)
+    - [iStatistica](https://www.imagetasks.com/system-battery-network-monitor-widget/)
     - [WeTest助手](https://wetest.qq.com/cloud/help/effective)（需要越狱）
     - [GT](http://gt.tencent.com/)（需要把GT Framework嵌入工程 ）
     - [GameBench](https://www.gamebench.net/)
@@ -86,7 +86,8 @@
 - 参考数据
     - [腾讯移动分析数据中心](http://mta.qq.com/mta/data/device)
     - [手机CPU性能天梯](http://www.mydrivers.com/zhuanti/tianti/01/)
-    
+    - [艾瑞指数](http://index.iresearch.com.cn/Device)
+
  
 #### 安全测试
 - 抓包工具
