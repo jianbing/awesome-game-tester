@@ -7,13 +7,16 @@
 #### 学习资料
 - 视频
     - [游戏测试入门(张敬峰)](https://www.imooc.com/learn/880)
-    - [游戏测试从入门到精通](https://ke.qq.com/course/127426)
+    - [游戏测试从入门到精通](http://study.163.com/course/introduction/1002858009.htm)
 
 - 书籍
     - [软件测试的艺术（原书第3版）](https://item.jd.com/10978790.html)（软件测试经典书籍） 
     - [游戏测试精通](https://book.douban.com/subject/2271968/)（Game Testing: All in One 第一版中文翻译）
     - [Game Testing: All in One（3rd Edition）](https://www.amazon.com/Game-Testing-Charles-P-Schultz/dp/1942270763/ref=sr_1_1?s=books&ie=UTF8&qid=1515405306&sr=1-1&keywords=Game+Testing%3A+All+in+One)
     - [Google软件测试之道](https://item.jd.com/11330792.html) 
+    - [海盗派测试分析](https://item.jd.com/12037941.html)
+    - [点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）](https://item.jd.com/11589225.html)
+
 
   
 #### 性能监控
@@ -65,6 +68,7 @@
     - [按键精灵手机版](http://www.mobileanjian.com/)
    
 - iOS
+    - [Airtest](http://airtest.netease.com/index.html)（网易开源的UI自动化测试工具，适用于游戏和App）
     - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别完成游戏的自动化操作）
     - [按键精灵手机版](http://www.mobileanjian.com/)（需要越狱）
     - [facebook-wda](https://github.com/openatx/facebook-wda)（Facebook WebDriverAgent非官方Python客户端）
