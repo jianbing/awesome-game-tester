@@ -89,9 +89,12 @@
 #### 兼容性测试
 - 参考数据
     - [腾讯移动分析数据中心](http://mta.qq.com/mta/data/device)
+    - [移动观象台](http://mi.talkingdata.com/terminals.html)
     - [手机CPU性能天梯](http://www.mydrivers.com/zhuanti/tianti/01/)
     - [艾瑞指数](http://index.iresearch.com.cn/Device)
 
+#### APP榜单
+- [七麦数据](https://www.qimai.cn/)
  
 #### 安全测试
 - 抓包工具
@@ -101,7 +104,10 @@
     - [pydivert](https://pypi.python.org/pypi/pydivert/2.0.1)（Python库，WinDivert的Python绑定）
     - [Charles](https://www.charlesproxy.com/download/)（HTTP抓包神器）
     - [Fiddler](https://www.telerik.com/fiddler)（HTTP协议调试代理工具）
-    
+
+- 动态调试
+    - IDA Pro（交互式反汇编器专业版）
+
 - 反编译
     - [ApkTool](http://ibotpeaches.github.io/Apktool/)（APK反编译工具）
     - [NET.Reflector](https://www.red-gate.com/products/dotnet-development/reflector/)（Unity安卓DLL代码文件反编译工具）
