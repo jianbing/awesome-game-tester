@@ -10,19 +10,19 @@
     - [游戏测试从入门到精通](http://study.163.com/course/introduction/1002858009.htm)
 
 - 书籍
-    - [软件测试的艺术（原书第3版）](https://item.jd.com/10978790.html)（软件测试经典书籍） 
+    - [软件测试的艺术（原书第3版）](https://item.jd.com/10978790.html)（软件测试经典书籍）
     - [游戏测试精通](https://book.douban.com/subject/2271968/)（Game Testing: All in One 第一版中文翻译）
     - [Game Testing: All in One（3rd Edition）](https://www.amazon.com/Game-Testing-Charles-P-Schultz/dp/1942270763/ref=sr_1_1?s=books&ie=UTF8&qid=1515405306&sr=1-1&keywords=Game+Testing%3A+All+in+One)
-    - [Google软件测试之道](https://item.jd.com/11330792.html) 
+    - [Google软件测试之道](https://item.jd.com/11330792.html)
     - [海盗派测试分析](https://item.jd.com/12037941.html)
     - [点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）](https://item.jd.com/11589225.html)
 
 
-  
+
 #### 性能监控
 - 安卓
     - [WeTest助手](https://wetest.qq.com/cloud/help/effective)
-    - [GT](http://gt.tencent.com/) 
+    - [GT](http://gt.tencent.com/)
     - [Emmagee](https://github.com/NetEase/Emmagee)
     - [adb](https://developer.android.com/studio/command-line/adb.html)（安卓SDK自带的调试工具，通过adb shell命令获取性能数据）
     - [GameBench](https://www.gamebench.net/)
@@ -66,7 +66,7 @@
     - [GAutomator](https://github.com/Tencent/GAutomator)（针对Unity手游的UI自动化测试框架）
     - [adb](https://developer.android.com/studio/command-line/adb.html)（通过adb shell input命令来完成点击，滑动等操作）
     - [按键精灵手机版](http://www.mobileanjian.com/)
-   
+
 - iOS
     - [Airtest](http://airtest.netease.com/index.html)（网易开源的UI自动化测试工具，适用于游戏和App）
     - [ATX](https://github.com/NetEaseGame/ATX)（基于图像识别完成游戏的自动化操作）
@@ -81,7 +81,7 @@
 
 #### 弱网测试
 - [clumsy](http://jagt.github.io/clumsy/)（Windows平台下人工造成不稳定的网络状况，方便易用）
-- [Network Emulator Toolkit](http://blog.mrpol.nl/2010/01/14/network-emulator-toolkit/)（Windows平台下的弱网模拟工具）  
+- [Network Emulator Toolkit](http://blog.mrpol.nl/2010/01/14/network-emulator-toolkit/)（Windows平台下的弱网模拟工具）
 - [Augmented Traffic Control](https://github.com/facebook/augmented-traffic-control)（Facebook开源的网络模拟工具）
 - [Charles](https://www.charlesproxy.com/)（支持HTTP，HTTPS协议的弱网测试）
 - [Fiddler](https://www.telerik.com/fiddler)（支持HTTP，HTTPS协议的弱网测试）
@@ -95,7 +95,7 @@
 
 #### APP榜单
 - [七麦数据](https://www.qimai.cn/)
- 
+
 #### 安全测试
 - 抓包工具
     - WPE（老牌封包编辑器）
@@ -111,11 +111,11 @@
 - 反编译
     - [ApkTool](http://ibotpeaches.github.io/Apktool/)（APK反编译工具）
     - [NET.Reflector](https://www.red-gate.com/products/dotnet-development/reflector/)（Unity安卓DLL代码文件反编译工具）
-    
+
 - 内存修改
     - 烧饼修改器（安卓端游戏内存修改工具，需要Root，同类的还有GG修改器，八门神器等）
     - [Cheat Engine](http://www.cheatengine.org/)（PC端内存修改工具）
-    
+
 - 资料
     - [游戏安全——手游安全技术入门](https://item.jd.com/11918839.html)
     - [游戏安全实验室](http://gslab.qq.com/js/)
@@ -135,18 +135,26 @@
 - [ShareDevice](https://github.com/sunshine4me/ShareDevice)（.net core开发的轻量级设备共享工具）
 
 
-#### 其他框架
+#### 其他工具
 - [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice)（与iOS设备进行通信的跨平台协议库）
     - [pymobiledevice](https://github.com/iOSForensics/pymobiledevice)（libimobiledevice的Python绑定）
     - [imobiledevice](http://docs.quamotion.mobi/en/latest/imobiledevice/download.html)（Quamotion提供的libimobiledevice的Windows平台可执行版本）
+- Cocos2d-x Console模块（Cocos2d-x 3.0新增的基于TCP的远程调试模块）
+  - [API文档](https://docs.cocos2d-x.org/api-ref/cplusplus/V3.0/d6/dbe/classcocos2d_1_1_console.html)
+  - [参考资料](https://github.com/iOSForensics/pymobiledevice)
+
 
 
 #### 效率工具
 - [Wox](http://www.getwox.com/)（Windows下免费开源的效率启动器）
 - [Xmind](http://www.xmindchina.net/)（思维导图编写）
 - [ProcessOn](https://www.processon.com/)（在线绘图平台，流程图，思维导图等）
-- [Bcompare](http://www.scootersoftware.com/download.php)（文本对比神器）
-- Setuna（Windows下的屏幕截图工具）
+- [Bcompare](http://www.scootersoftware.com/download.php)（文本对比神器，收费）
+- [DiffMerge](http://www.sourcegear.com/diffmerge/downloaded.php)（免费的文本对比工具）
+- [Snipaste](https://zh.snipaste.com/)（截图工具）
+- [AnyDesk](http://www.voidtools.com/)（远程桌面连接）
+- [Cmder](http://cmder.net/)（Cmd的替代品）
+- [QuickLook](https://github.com/QL-Win/QuickLook/releases)（快速预览）
 
 #### 编程学习
 - [codecademy](https://www.codecademy.com/)
