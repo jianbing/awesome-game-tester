@@ -25,7 +25,7 @@
     - [GT](http://gt.tencent.com/)
     - [Emmagee](https://github.com/NetEase/Emmagee)
     - [adb](https://developer.android.com/studio/command-line/adb.html)（安卓SDK自带的调试工具，通过adb shell命令获取性能数据）
-    - [GameBench](https://www.gamebench.net/)
+    - [GameBench](https://www.gamebench.net/)（收费）
     - [Battery Historian](https://github.com/google/battery-historian)（安卓生成电量消耗报告）
     - [Trepn Profiler](https://developer.qualcomm.com/software/trepn-power-profiler)（用于移动设备上的应用功耗和性能分析工具）
     - [Snapdragon Profiler](https://developer.qualcomm.com/software/snapdragon-profiler)（Snapdragon Profiler是一款兼容Windows、Mac和Linux平台的性能分析软件。它通过USB与由Snapdragon处理器驱动的Android设备连接）
@@ -93,8 +93,11 @@
     - [手机CPU性能天梯](http://www.mydrivers.com/zhuanti/tianti/01/)
     - [艾瑞指数](http://index.iresearch.com.cn/Device)
 
-#### APP榜单
+#### 榜单信息
 - [七麦数据](https://www.qimai.cn/)
+- [TalkingData](hhttp://mi.talkingdata.com/index.html)
+- [艾瑞指数](http://data.iresearch.com.cn/iRIndex.shtml)
+
 
 #### 安全测试
 - 抓包工具
@@ -143,7 +146,8 @@
   - [API文档](https://docs.cocos2d-x.org/api-ref/cplusplus/V3.0/d6/dbe/classcocos2d_1_1_console.html)
   - [参考资料](https://github.com/iOSForensics/pymobiledevice)
 
-
+#### 数据库工具
+- [Robo 3T](https://robomongo.org/download)（MongoDB可视化工具）
 
 #### 效率工具
 - [Wox](http://www.getwox.com/)（Windows下免费开源的效率启动器）
