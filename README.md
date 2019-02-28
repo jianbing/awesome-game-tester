@@ -92,18 +92,13 @@
 - [Charles](https://www.charlesproxy.com/) - 支持HTTP，HTTPS协议的弱网测试
 - [Fiddler](https://www.telerik.com/fiddler) - 支持HTTP，HTTPS协议的弱网测试
 
-## 兼容性测试
-### 参考数据
-- [腾讯移动分析数据中心](http://mta.qq.com/mta/data/device)
-- [移动观象台](http://mi.talkingdata.com/terminals.html)
-- [手机CPU性能天梯](http://www.mydrivers.com/zhuanti/tianti/01/)
-- [艾瑞指数](http://index.iresearch.com.cn/Device)
 
 ## 榜单排行
 - [七麦数据](https://www.qimai.cn/)
-- [TalkingData](hhttp://mi.talkingdata.com/index.html)
+- [TalkingData](http://mi.talkingdata.com/index.html)
 - [艾瑞指数](http://data.iresearch.com.cn/iRIndex.shtml)
-
+- [腾讯移动分析数据中心](http://mta.qq.com/mta/data/device)
+- [手机CPU性能天梯](http://www.mydrivers.com/zhuanti/tianti/01/)
 
 ## 安全测试
 ### 抓包工具
