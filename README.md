@@ -65,9 +65,10 @@
 - [LoadRunner](https://software.microfocus.com/zh-cn/software/loadrunner) - 老牌压测工具，收费
 - [Locust](https://www.locust.io/) - 开源的压测工具，支持HTTP，可以通过扩展支持自定义协议
 
+## 静态分析
+- [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) - 基于微软Roslyn插件，对Unity的代码做静态分析
 
 ## UI自动化
-
 ### 安卓
 - [Airtest](http://airtest.netease.com/index.html) - 网易开源的UI自动化测试工具，适用于游戏和App
 - [ATX](https://github.com/NetEaseGame/ATX) - 基于图像识别完成游戏的自动化操作
@@ -180,10 +181,5 @@
 
 ---
 
-#### 如何参与
-非常欢迎大家贡献高质量的资源，可以联系QQ：326333381，或者提交PR。
-
-- 请确保推荐的资源是游戏项目中使用过，且效果不错
-- 请注明推荐理由
-
-感谢您的贡献！
+### 如何参与
+非常欢迎大家贡献高质量的资源，可以联系QQ(326333381)，或者提交PR。
