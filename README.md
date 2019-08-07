@@ -17,6 +17,7 @@
 - [Google软件测试之道](https://item.jd.com/11330792.html)
 - [海盗派测试分析](https://item.jd.com/12037941.html)
 - [点石成金：访客至上的Web和移动可用性设计秘笈（原书第3版）](https://item.jd.com/11589225.html)
+- [全程软件测试（第3版）](https://item.jd.com/12468937.html)
 
 ### 社区
 - [TesterHome](https://testerhome.com/)
@@ -67,6 +68,7 @@
 
 ## 静态分析
 - [UnityEngineAnalyzer](https://github.com/vad710/UnityEngineAnalyzer) - 基于微软Roslyn插件，对Unity的代码做静态分析
+- [SonarQube](https://www.sonarqube.org) - 代码质量管理平台
 
 ## UI自动化
 ### 安卓
@@ -94,6 +96,8 @@
 - [Augmented Traffic Control](https://github.com/facebook/augmented-traffic-control) - Facebook开源的网络模拟工具
 - [Charles](https://www.charlesproxy.com/) - 支持HTTP，HTTPS协议的弱网测试
 - [Fiddler](https://www.telerik.com/fiddler) - 支持HTTP，HTTPS协议的弱网测试
+- [QNET](https://wetest.qq.com/product/qnet) - WeTest出品，支持安卓平台，无需ROOT手机，支持自定义配置弱网参数
+
 
 
 ## 榜单排行
