@@ -6,17 +6,20 @@
 
 ## 学习资料
 
-### 视频
+### 视频教程
 - [游戏测试入门](https://www.imooc.com/learn/880)
 - [游戏测试从入门到精通](http://study.163.com/course/introduction/1002858009.htm)
 
-### 书籍
-- [软件测试的艺术（原书第3版）](https://item.jd.com/10978790.html) - 软件测试经典书籍
-- [游戏测试精通](https://book.douban.com/subject/2271968/) - 《Game Testing: All in One》 第一版翻译
-- [Game Testing: All in One（3rd Edition）](https://www.amazon.com/Game-Testing-Charles-P-Schultz/dp/1942270763) - 英文版
+### 书籍资料
+- [精通游戏测试（第3版）](https://item.jd.com/13505255.html) 
+- [质量保障（网易游戏学院游戏研发入门系列丛书）](https://item.jd.com/10035334668093.html)  
+- [软件测试的艺术（原书第3版）](https://item.jd.com/10978790.html)
 - [Google软件测试之道](https://item.jd.com/11330792.html)
 - [海盗派测试分析](https://item.jd.com/12037941.html)
 - [全程软件测试（第3版）](https://item.jd.com/12468937.html)
+- [游戏安全——手游安全技术入门](https://item.jd.com/11918839.html)
+- [游戏安全实验室](https://gslab.qq.com/js/)
+
 
 ### 社区
 - [TesterHome](https://testerhome.com/)
@@ -35,16 +38,15 @@
 - [Tegra Graphics Debugger](http://docs.nvidia.com/tegra-graphics-debugger/) - NVIDIA Tegra的性能分析软件
 - [Mali Graphics Debugger](https://developer.arm.com/products/software-development-tools/graphics-development-tools/mali-graphics-debugger)
 - [WeTest助手](https://wetest.qq.com/cloud/help/effective) - WeTest平台出品的APP性能数据采集工具，支持Android2.3 - 5.1
-- [GT](https://github.com/Tencent/GT) - 腾讯开源的APP的性能监控，调试框架
 - [Emmagee](https://github.com/NetEase/Emmagee) - 网易开源的APP性能监控工具，不支持Android 7.0以上版本
 
 ### iOS
-- [PerfDog](https://perfdog.qq.com/) - 腾讯WeTest出品的性能数据采集，分析工具，无需越狱
+- [PerfDog](https://perfdog.qq.com/) - 腾讯WeTest出品的性能数据采集，分析工具，无需越狱，收费
 - [Xcode Instruments](https://help.apple.com/instruments/mac/10.0/) - Xcode自带的性能调试工具集
-- [GT](http://gt.tencent.com/) - 腾讯开源的APP的性能监控，调试框架，需要接入SDK 
 - [iStatistica](https://www.imagetasks.com/system-battery-network-monitor-widget/)
 - [WeTest助手](https://wetest.qq.com/cloud/help/effective) - iOS7以上，需要越狱
 - [GameBench](https://www.gamebench.net/) - 收费软件
+- [sib](https://github.com/SonicCloudOrg/sonic-ios-bridge) - 以gidevice为底层实现的iOS调试工具
 
 ### PC
 - [nmon](http://nmon.sourceforge.net/pmwiki.php) - Linux操作系统上广泛使用的监控与分析工具
@@ -56,7 +58,7 @@
 - [Unity Profiler](https://docs.unity3d.com/Manual/Profiler.html) - Unity自带的Profile工具
 - [MemoryProfiler](https://bitbucket.org/Unity-Technologies/memoryprofiler/overview) - Unity5.3新增的内存分析工具
 - [UWA](https://www.uwa4d.com/)  - 本地测试收费，需要集成SDK
-- [UPA](http://wetest.qq.com/cube/)  - WeTest联合Unity官方打造的性能分析工具，收费 
+- [UPR](https://upr.unity.cn/enterprise)  - Unity官方出品的性能测试工具
 
 ## 压力测试
 
@@ -100,7 +102,6 @@
 - [Fiddler](https://www.telerik.com/fiddler) - 支持HTTP，HTTPS协议的弱网测试
 
 
-
 ## 榜单排行
 - [七麦数据](https://www.qimai.cn/)
 - [TalkingData](http://mi.talkingdata.com/index.html)
@@ -130,10 +131,6 @@
 - 烧饼修改器 - 安卓端游戏内存修改工具，需要Root，同类的还有GG修改器，八门神器等
 - [Cheat Engine](http://www.cheatengine.org/) - PC端内存修改工具
 
-### 学习资料
-- [游戏安全——手游安全技术入门](https://item.jd.com/11918839.html)
-- [游戏安全实验室](https://gslab.qq.com/portal.php)
-
 ## 分发测试
 - [TestFlight](https://developer.apple.com/testflight/) - 苹果出品
 
@@ -161,8 +158,8 @@
 - [Robo 3T](https://robomongo.org/download) - MongoDB可视化工具
 
 ## 效率工具
+- [uTools](https://u.tools/) - uTools是一个极简、插件化、跨平台的现代桌面软件
 - [Wox](http://www.getwox.com/) - Windows下免费开源的效率启动器
-- [uTools](https://u.tools/) - uTools是一个极简、插件化、跨平台的现代桌面软件，和Wox类似
 - [Quicker](https://www.getquicker.net/) - Windows下效率工具后起之秀
 - [Xmind](http://www.xmindchina.net/) - 思维导图编写
 - [ProcessOn](https://www.processon.com/) - 在线绘图平台，流程图，思维导图等
