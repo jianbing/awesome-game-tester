@@ -74,6 +74,9 @@
 - [SonarQube](https://www.sonarqube.org) - 代码质量管理平台
 
 ## UI自动化
+### 跨平台
+- [agent-qa](https://vostride.com) - 用自然语言测试 Web、Android 和 iOS 应用界面，持久记忆引擎复用经验，自我改进经验证后保留新知识，支持 CLI 和 MCP（[源码](https://github.com/vostride/agent-qa)）
+
 ### 安卓
 - [Airtest](http://airtest.netease.com/index.html) - 网易开源的UI自动化测试工具，适用于游戏和App
 - [ATX](https://github.com/NetEaseGame/ATX) - 基于图像识别完成游戏的自动化操作
